@@ -37,7 +37,7 @@ const prayerTimes = {
       alert('It\'s time to pray Maghrib');
     }
     if( currentTime === prayerTimes.isha) {
-      alert('It\'s time to pray Maghrib');
+      alert('It\'s time to pray Isha');
     }
   };
   
